@@ -32,6 +32,9 @@ go run
 md app && cd app
 go mod init app1
 go get -u github.com/gin-gonic/gin
+
+# run app
+go run main.go
 ```
 
 ## What is := in go ?
