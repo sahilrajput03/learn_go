@@ -33,3 +33,7 @@ md app && cd app
 go mod init app1
 go get -u github.com/gin-gonic/gin
 ```
+
+## What is := in go ?
+
+Amazing -> Source: https://stackoverflow.com/a/45654233/10012446
