@@ -1,5 +1,9 @@
 # learn_go
 
+## Quick Links
+
+- Go playground: [Click here](https://go.dev/play/)
+
 ## Find where the packages would be installed with `go env` command:
 
 ```bash
