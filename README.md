@@ -2,7 +2,7 @@
 
 ## Quick Links
 
-- ❤️Official Go playground: [Click here](https://go.dev/play/)
+- ❤️Official Go playground: [go.dev/play](https://go.dev/play)
 
 ## Find where the packages would be installed with `go env` command:
 
